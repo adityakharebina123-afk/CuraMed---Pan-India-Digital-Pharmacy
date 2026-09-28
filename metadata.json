@@ -1,0 +1,6 @@
+{
+  "name": "CuraMed - Pan-India Digital Pharmacy",
+  "description": "CDSCO registered & DISHA compliant digital healthcare portal with cold-chain delivery tracking, verified prescription refills, and licensed pharmacist consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
